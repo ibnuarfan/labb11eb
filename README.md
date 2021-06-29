@@ -3,7 +3,7 @@ nim : 33910359
 Kelas : Ti 19 b2
 
 
-
+TUGAS PRAKTIKUM 11 DAN 12
 Konfigurasi di xampp
 
 ![1](https://user-images.githubusercontent.com/81373389/122668085-ad947800-d1e0-11eb-8f2e-2ab1b86defff.JPG)
@@ -32,3 +32,34 @@ isi artikel
 Edit artikel
 ![edit_artikel](https://user-images.githubusercontent.com/81373389/122668141-e0d70700-d1e0-11eb-80d4-341a65247e8d.JPG)
 
+**TUGAS PRAKTIKUM 13**
+Mmembuat Table user
+![buat_database](https://user-images.githubusercontent.com/81373389/123732395-0db3aa00-d8c4-11eb-8857-1cee163e3ae6.JPG)
+Membuat Model User 
+![database_user](https://user-images.githubusercontent.com/81373389/123732546-40f63900-d8c4-11eb-8595-4d4b105ba8dc.JPG)
+Membuat controler user
+![image](https://user-images.githubusercontent.com/81373389/123732748-8fa3d300-d8c4-11eb-947f-edf11ee9295d.png)
+Membuat login
+![login](https://user-images.githubusercontent.com/81373389/123732809-a9451a80-d8c4-11eb-8f9c-3629a1faf175.JPG)
+Membuat database Seeder
+![useseeder](https://user-images.githubusercontent.com/81373389/123732878-c7127f80-d8c4-11eb-9a14-31f339bc7345.JPG)
+![database_user](https://user-images.githubusercontent.com/81373389/123732931-da254f80-d8c4-11eb-981b-06fadf988fc6.JPG)
+Tampilan Sign In
+![sign](https://user-images.githubusercontent.com/81373389/123732969-e3aeb780-d8c4-11eb-8065-3b560ac8778c.JPG)
+Membuat Auth.php
+![authphp](https://user-images.githubusercontent.com/81373389/123733031-faeda500-d8c4-11eb-81e4-087d0fc3697f.JPG)
+Membuat Auth di Controler dan routes
+![authtCo](https://user-images.githubusercontent.com/81373389/123733080-122c9280-d8c5-11eb-99e1-5647b5ea4900.JPG)
+![RoutesAut](https://user-images.githubusercontent.com/81373389/123733085-135dbf80-d8c5-11eb-8ce4-5a0d93265d3b.JPG)
+Tampilan  http://localhost:8080/admin/artikel 
+![sign](https://user-images.githubusercontent.com/81373389/123733111-1fe21800-d8c5-11eb-9169-d4b924bfd70b.JPG)
+Membuat fungsi log out 
+![log out](https://user-images.githubusercontent.com/81373389/123733382-941cbb80-d8c5-11eb-9949-8aa3d487b4c0.JPG)
+
+
+Tampilan Setelah Login
+![image](https://user-images.githubusercontent.com/81373389/123733324-7a7b7400-d8c5-11eb-9efe-9d39da53814b.png)
+
+![lohOut](https://user-images.githubusercontent.com/81373389/123733230-515ae380-d8c5-11eb-96ac-21f67f6c9616.JPG)
+Tampilan Setelah Log out
+![sign](https://user-images.githubusercontent.com/81373389/123733265-60da2c80-d8c5-11eb-8868-e1728376ae1a.JPG)
